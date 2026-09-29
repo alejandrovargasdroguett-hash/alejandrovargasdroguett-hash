@@ -32,13 +32,48 @@ Poseo sólidos conocimientos en sistemas operativos basados en Unix/Linux, tecno
   <img src="https://shields.io" alt="AWS">
   <img src="https://shields.io" alt="GCP">
   <img src="https://shields.io" alt="OCI">
+  <img src="https://shields.io" alt="Azure">
   <img src="https://shields.io" alt="VMware">
+  <img src="https://shields.io" alt="Nutanix">
 </p>
 
-*   **Sistemas Operativos & Unix:** RHEL, AIX.
+*   **Sistemas Operativos & Unix:** RHEL, IBM AIX.
 *   **Virtualización:** VMware, Nutanix.
-*   **Cloud Pública:** OCI, GCP, Azure, AWS.
+*   **Cloud Pública:** OCI (Oracle Cloud Infrastructure), GCP (Google Cloud Platform), Azure, AWS.
 *   **Automatización & IaC:** Ansible, Terraform, Git.
+
+---
+
+### 🏆 Certificaciones y Educación
+
+#### **2026**
+*   <img src="https://shields.io" height="20"> **Nutanix Certified Professional** - Cloud Integration - AWS 6.10
+*   <img src="https://shields.io" height="20"> **Nutanix Certified Professional** (NCP 6.10)
+
+#### **2025**
+*   <img src="https://shields.io" height="20"> **OCI Multicloud Architect Professional**
+
+#### **2024**
+*   <img src="https://shields.io" height="20"> **GCP Associate Cloud Engineer Certification**
+*   <img src="https://shields.io" height="20"> **OCI Solutions Architect Professional**
+
+#### **2020**
+*   <img src="https://shields.io" height="20"> **Red Hat Delivery Specialist** – Platform
+
+#### **2018**
+*   <img src="https://shields.io" height="20"> **IBM Certified System Administrator AIX V1**
+*   <img src="https://shields.io" height="20"> **AWS Certified Solutions Architect** – Associate
+
+#### **2014**
+*   <img src="https://shields.io" height="20"> **Red Hat Certified ENGINEER** (RHCE)
+*   <img src="https://shields.io" height="20"> **Red Hat Certified SYSTEM ADMINISTRATOR** (RHCSA)
+*   <img src="https://shields.io" height="20"> **Red Hat Certified VIRTUALIZATION ADMINISTRATOR**
+
+#### **2012**
+*   <img src="https://shields.io" height="20"> **VMware Certified Professional 5** Data Center Virtualization
+
+#### **Educación Formal (2007)**
+*   🎓 **Administrador de Redes Computacionales** – DUOC UC
 
 ---
 
@@ -59,27 +94,10 @@ Como parte del equipo **KCNS (Kyndryl Native Cloud Services)**, mi misión princ
 ---
 
 ### 🧠 Competencias
-*   Innovación Constante
-*   Cultura Organizacional
-*   Comunicación & Liderazgo
-*   Trabajo en Equipo
-*   Orientación al Cliente
-*   Mentalidad Analítica
-*   Aprendizaje Continuo
-*   Relacionamiento Inclusivo y Positivo
-
-
-<!--
-**alejandrovargasdroguett-hash/alejandrovargasdroguett-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   ⚡ Innovación Constante
+*   🤝 Cultura Organizacional & Trabajo en Equipo
+*   🗣️ Comunicación & Liderazgo
+*   🎯 Orientación al Cliente
+*   📊 Mentalidad Analítica
+*   📚 Aprendizaje Continuo
+*   🌍 Relacionamiento Inclusivo y Positivo
